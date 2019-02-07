@@ -11,7 +11,7 @@
  pom  {:project     'cljsjs/duo-web-sdk
        :version     +version+
        :description "This package allows a web developer to quickly add Duo's interactive, self-service, two-factor authentication to any web login form - without setting up secondary user accounts, directory synchronization, servers, or hardware."
-       :url         "https://github.com/duosecurity/duo-web-sdk/"
+       :url         "https://github.com/duosecurity/duo_web_sdk/"
        :scm         {:url "https://github.com/cljsjs/packages"}
        :license     {"BSD" "http://opensource.org/licenses/BSD-3-Clause"}})
 
